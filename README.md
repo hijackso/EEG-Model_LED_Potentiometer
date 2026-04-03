@@ -4,6 +4,6 @@ states (Anesthetized, Wake, Seizure). This is connected to the Arduino. When the
 each state, the Arduino causes the light panel to execute the corresponding sequence. The LED activity mimics the behavior of EEG neural
 avalanche criticality and the functional connectivity of EEG electrodes in that state. 
 
-Code was written in Visual Studio Code.
+Code was written in Visual Studio Code. Requires FastLED and Arduino add-ons.
 
 Please cite Hazel Jackson (ORDID: 0009-0008-9128-696X ) if you use this code. 
